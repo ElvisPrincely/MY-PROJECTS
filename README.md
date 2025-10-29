@@ -39,7 +39,7 @@ The AutoDealer website provides a seamless and engaging user experience, making 
 https://auto-dealer-car.vercel.app/
 
 
-Real Estate Website Frontend*
+Real Estate Website Frontend
 
 A responsive frontend application for a real estate website, showcasing available properties and allowing users to contact agents or owners. Features include:
 
